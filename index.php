@@ -1,3 +1,1 @@
-<?php
-
-phpinfo();
+<?php header( 'Location: /default.html' ) ; ?>
